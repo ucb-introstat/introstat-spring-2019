@@ -1,8 +1,8 @@
 # Stat 131A - Spring 2019
 
-- Policies
-- FAQ
-- Piazza
+- [Policies](syllabus/policies.md)
+- [Staff](syllabus/staff.md)
+- [Piazza](syllabus/piazza.md)
 
 ----- 
 
@@ -318,5 +318,5 @@ the pace of the course.
 - :paperclip: __Topics__: Prepare for final examination
 - :file_folder: __Notes__:
     + No lecture. Instructor will hold OH (in 309 Evans)
-- :mortar_board: __FINAL__: Dec Th 13, 3-6pm, Rooms Latimer 120 and 102
+- :mortar_board: __FINAL__: May Tu 14, 7-10pm, Rooms TBA
     + See announcement about the final test on bCourses
