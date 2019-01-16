@@ -29,7 +29,7 @@ the pace of the course.
     + [What is data?](../slides/istat-lec01-data-variables.pdf)
     + [Frequency tables and barcharts](../slides/istat-lec02-barcharts.pdf)
 - :book: __Reading__:
-    + [Course policies](policies.md) and [Piazza etiquette](piazza.md)
+    + [Course policies](syllabus/policies.md) and [Piazza etiquette](syllabus/piazza.md)
     + [Chapter 3: Statistics](https://www.stat.berkeley.edu/~stark/SticiGui/Text/histograms.htm)
 - :microscope: __Lab__: No lab
 - :speaker: __To Do__: Please spend some time outside class to review the course policies, and piazza etiquette rules.
@@ -54,10 +54,10 @@ the pace of the course.
     + [Chapter 3: Statistics](https://www.stat.berkeley.edu/~stark/SticiGui/Text/histograms.htm)
     + [Chapter 4: Measures of Location and Spread](https://www.stat.berkeley.edu/~stark/SticiGui/Text/location.htm)
 - :microscope: __Lab__:
-    + [1a: Getting started with R and RStudio](../labs/lab01a-R-basics-questions.pdf) (Tu; due Aug-29)
-    + [1b: Histograms](../labs/lab01b-histograms-questions.pdf) (Th; due Aug-31)
+    + TBA (Tu; due Jan-30)
+    + TBA (Th; due Feb-01)
 - :bulb: __Cheatsheet__: [RStudio cheat sheet](../cheatsheets/rstudio-cheatsheet.pdf) and [R markdown cheat sheet](../cheatsheets/rmarkdown-cheatsheet.pdf)
-- :dart: __HW 01__: [Markdown](../hws/hw01-markdown.pdf) (due Sep-03)
+- :dart: __HW 01__: TBA (due Feb-03)
 
 
 -----
@@ -75,10 +75,10 @@ the pace of the course.
     + [Chapter 4: Measures of Location and Spread](https://www.stat.berkeley.edu/~stark/SticiGui/Text/location.htm)
     + [Chapter 23: Normal Curve](https://www.stat.berkeley.edu/~stark/SticiGui/Text/clt.htm)
 - :microscope: __Lab__:
-    + [2a: Centers](../labs/lab02a-centers-questions.pdf) (Tu; due Sep-05)
-    + [2b: Boxplots and spreads](../labs/lab02b-boxplots-spreads-questions.pdf) (Th; due Sep-07)
+    + TBA (Tu; due Feb-06)
+    + TBA (Th; due Feb-08)
 - :bulb: __Cheatsheet__: [Base R](../cheatsheets/base-r-cheatsheet.pdf)
-- :dart: __HW 02__: [Distributions](../hws/hw02-questions.pdf) (due Sep-10)
+- :dart: __HW 02__: TBA (due Feb-10)
 
 
 -----
@@ -98,10 +98,10 @@ the pace of the course.
     + [Chapter 7: Correlation](https://www.stat.berkeley.edu/~stark/SticiGui/Text/correlation.htm)
     + [Chapter 8: Computing the correlation coefficient](https://www.stat.berkeley.edu/~stark/SticiGui/Text/computeR.htm)
 - :microscope: __Lab__:
-    + [3a: Spreads and normal curve](../labs/lab03a-spreads-normal-questions.pdf) (Tu; due Sep-12)
-    + [3b: Scatterplots and correlation](../labs/lab03b-scatterplots-questions.pdf) (Th; due Sep-14)
+    + TBA (Tu; due Feb-13)
+    + TBA (Th; due Feb-15)
 - :bulb: __Cheatsheet__: [Data import cheat sheet](../cheatsheets/data-import-cheatsheet.pdf)
-- :dart: __HW 03__: [Correlation](../hws/hw03-questions.pdf) (due Sep-17)
+- :dart: __HW 03__: TBA (due Feb-17)
 
 
 -----
@@ -119,9 +119,9 @@ the pace of the course.
     + [Chapter 9: Regression](https://www.stat.berkeley.edu/~stark/SticiGui/Text/regression.htm)
     + [Chapter 10: Regression Diagnostics](https://www.stat.berkeley.edu/~stark/SticiGui/Text/regressionDiagnostics.htm)
 - :microscope: __Lab__:
-    + [4a: Correlations](../labs/lab04a-correlation-questions.pdf) (Tu; due Sep-19)
-    + [4b: Correlations and Regression](../labs/lab04b-more-correlation-questions.pdf) (Th; due Sep-21)
-- :dart: __HW 04__: [Regression](../hws/hw04-questions.pdf) (due Sep-24)
+    + TBA (Tu; due Feb-20)
+    + TBAb: Correlations and Regression](../labs/lab04b-more-correlation-questions.pdf) (Th; due Feb-22)
+- :dart: __HW 04__: TBA (due Feb-24)
 
 
 -----
@@ -137,10 +137,10 @@ the pace of the course.
 - :book: __Reading__:
     + [Chapter 11: Errors in Regression](https://www.stat.berkeley.edu/~stark/SticiGui/Text/regressionErrors.htm)
 - :microscope: __Lab__:
-    + [5a: More Regression](../labs/lab05a-regression-questions.pdf) (Tu; due Sep-26)
+    + TBA (Tu; due Feb-27)
     + 5b: Review session (Th)
-- :dart: __HW 05__: [More Regression](../hws/hw05-questions.pdf) (due Oct-01)
-- :mortar_board: __MIDTERM 1__: Friday Sep-28
+- :dart: __HW 05__: TBA (due Mar-03)
+- :mortar_board: __MIDTERM 1__: Friday Mar-01
 
 
 -----
@@ -159,9 +159,9 @@ the pace of the course.
     + [Chapter 17: Probability, Axioms and Fundamentals](https://www.stat.berkeley.edu/~stark/SticiGui/Text/probabilityAxioms.htm)
     + [Chapter 18: The Monty Hall Problem](https://www.stat.berkeley.edu/~stark/SticiGui/Text/montyHall.htm)
 - :microscope: __Lab__:
-    + [6a: Probability basics](../labs/lab06a-probability1-questions.pdf) (Tu; due Oct-03)
-    + [6b: Probability rules 1](../labs/lab06b-probability2-questions.pdf) (Th; due Oct-05)
-- :dart: __HW 06__: [Probability Basics](../hws/hw06-questions.pdf) (due Oct-08)
+    + TBA (Tu; due Mar-06)
+    + TBA (Th; due Mar-08)
+- :dart: __HW 06__: TBA (due Mar-10)
 
 
 -----
@@ -178,9 +178,9 @@ the pace of the course.
     + [Chapter 19: Probability Meets Data](https://www.stat.berkeley.edu/~stark/SticiGui/Text/montyHallTest.htm) (Binomial Distribution)
     + [Chapter 20: Random Variables and Discrete Distributions](https://www.stat.berkeley.edu/~stark/SticiGui/Text/randomVariables.htm)
 - :microscope: __Lab__:
-    + [7a: Probability rules 2](../labs/lab07a-more-prob-questions.pdf) (Tu; due Oct-10)
-    + [7b: Box Models](../lbasl/lab07b-box-models-questions.pdf) (Th; due Oct-12)
-- :dart: __HW 07__: [More Probability](../hws/hw07-questions.pdf) (due Oct-15)
+    + TBA (Tu; due Mar-13)
+    + TBA (Th; due Mar-15)
+- :dart: __HW 07__: TBA (due Mar-17)
 
 
 -----
@@ -199,9 +199,9 @@ the pace of the course.
     + [Chapter 22: Standard Error](https://www.stat.berkeley.edu/~stark/SticiGui/Text/standardError.htm)
     + [Chapter 23: Normal Distribution](https://www.stat.berkeley.edu/~stark/SticiGui/Text/clt.htm)
 - :microscope: __Lab__:
-    + [8a: Expected Value and Variance](../lasb/lab08a-exp-value-questions.pdf) (Tu; due Oct-17)
-    + [8b: Binomial Distribution](../lasb/lab08b-binomial-questions.pdf) (Th; due Oct-19)
-- :dart: __HW 08__: [Binomial Distribution](../hws/hw08-questions.pdf) (due Oct-22)
+    + TBA (Tu; due Mar-22)
+    + TBA (Th; due Mar-24)
+- :dart: __HW 08__: TBA (due Mar-24)
 
 
 -----
@@ -228,9 +228,9 @@ the pace of the course.
     + [Chapter 24: Sampling](https://www.stat.berkeley.edu/~stark/SticiGui/Text/sampling.htm)
     + [Chapter 25: Estimating Parameters from SRS](https://www.stat.berkeley.edu/~stark/SticiGui/Text/estimation.htm)
 - :microscope: __Lab__:
-    + [9a: Expected value and standard error](../labs/lab09a-exp-se-questions.pdf) (Tu; due Oct-24)
-    + [9b: Sampling Designs](../labs/lab09b-sampling-questions.pdf) (Th; due Oct-26)
-- :dart: __HW 09__: [Standard Errors](../hws/hw09-questions.pdf) (due Oct-29)
+    + TBA (Tu; due Apr-03)
+    + TBA (Th; due Apr-05)
+- :dart: __HW 09__: TBA (due Apr-07)
 
 
 -----
@@ -247,10 +247,10 @@ the pace of the course.
 - :book: __Reading__: 
     + [Chapter 25: Estimating Parameters from SRS](https://www.stat.berkeley.edu/~stark/SticiGui/Text/estimation.htm)
 - :microscope: __Lab__:
-    + [10a: Sampling distributions](../labs/lab10a-sampling-distribs-questions.pdf) (Tu; due Oct-31)
-    + 10b: Review Session (Th)
-- :dart: __HW 10__: [Sampling Distributions](../hws/hw10-questions.pdf) (due Nov-05)
-- :mortar_board: __MIDTERM 2__: Friday Nov-02
+    + TBA (Tu; due Apr-10)
+    + 10b: Review Session
+- :dart: __HW 10__: TBA (due Apr-14)
+- :mortar_board: __MIDTERM 2__: Friday Apr-12
 
 
 -----
@@ -267,9 +267,9 @@ the pace of the course.
 - :book: __Reading__:
     + [Chapter 26: Confidence Intervals](https://www.stat.berkeley.edu/~stark/SticiGui/Text/confidenceIntervals.htm)
 - :microscope: __Lab__:
-    + [11a: Confidence Intervals for Proportions](../labs/lab11a-ci4proportions-questions.pdf) (Tu; due Nov-07)
-    + [11b: Confidence Intervals for Means](../labs/lab11b-ci4means-questions.pdf) (Th; due Nov-09)
-- :dart: __HW 11__: [Confidence Intervals](../hws/hw11-questions.pdf) (due Nov-12)
+    + TBA (Tu; due Apr-17)
+    + TBA (Th; due Apr-19)
+- :dart: __HW 11__: TBA (due Apr-21)
 
 
 -----
@@ -286,9 +286,9 @@ the pace of the course.
 - :book: __Reading__:
     + [Chapter 27: Hypothesis Testing](https://www.stat.berkeley.edu/~stark/SticiGui/Text/testing.htm)
 - :microscope: __Lab__:
-    + [12a: Hypothesis for one proportion](../labs/lab12a-test4proportions-questions.pdf) (Tu; due Nov-14)
-    + [12b: Hypothesis for one mean](../labs/lab12b-test4means-questions.pdf) (Th; due Nov-16)
-- :dart: __HW 12__: [Inference](../hws/hw12-questions.pdf) (due Dec-03)
+    + TBA (Tu; due Apr-24)
+    + TBA (Th; due Apr-26)
+- :dart: __HW 12__: TBA (due Apr-28)
 
 
 -----
@@ -305,8 +305,8 @@ the pace of the course.
     + [Chapter 27: Hypothesis Testing](https://www.stat.berkeley.edu/~stark/SticiGui/Text/testing.htm)
     + [Chapter 31: Chi-Squared Test](https://www.stat.berkeley.edu/~stark/SticiGui/Text/chiSquare.htm)
 - :microscope: __Lab__:
-    + [13a: One-sample t-test](../labs/lab13a-t-test-questions.pdf) (Tu; due Nov-14) (Tu; due Nov-28)
-    + [13b: Two-sample tests](../labs/lab13b-two-sample-test-questions.pdf) (Th; due Nov-30)
+    + TBA (Tu; due May-01) 
+    + TBA (Th; due May-03)
 
 
 -----
