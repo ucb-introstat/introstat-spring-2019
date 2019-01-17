@@ -3,7 +3,7 @@
 
 ### Course Description
 
-__Statistics 131A__ is designed primarily as an introductory course for statistical thinking: critical thinking, interpretation, and statistical literacy. Topics include descriptive statistics, association, correlation, regression, elements of probability, chance variability, random variables, expectation, standard error, sampling, hypothesis tests, confidence intervals, experiments and observational studies.
+__Stat 131A Introduction to Probability and Statistics for Life Scientists, Spring 2017__ is designed primarily as an introductory course for statistical thinking: critical thinking, interpretation, and statistical literacy. Topics include descriptive statistics, association, correlation, regression, elements of probability, chance variability, random variables, expectation, standard error, sampling, hypothesis tests, confidence intervals, experiments and observational studies.
 
 
 ### Prerequisites
