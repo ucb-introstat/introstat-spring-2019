@@ -56,7 +56,7 @@ the pace of the course.
 - :microscope: __Lab__:
     + TBA (Tu; due Jan-30)
     + TBA (Th; due Feb-01)
-- :bulb: __Cheatsheet__: [RStudio cheat sheet](../cheatsheets/rstudio-cheatsheet.pdf) and [R markdown cheat sheet](../cheatsheets/rmarkdown-cheatsheet.pdf)
+- :bulb: __Cheatsheet__: [RStudio cheat sheet](cheatsheets/rstudio-cheatsheet.pdf) and [R markdown cheat sheet](cheatsheets/rmarkdown-cheatsheet.pdf)
 - :dart: __HW 01__: TBA (due Feb-03)
 
 
@@ -77,7 +77,7 @@ the pace of the course.
 - :microscope: __Lab__:
     + TBA (Tu; due Feb-06)
     + TBA (Th; due Feb-08)
-- :bulb: __Cheatsheet__: [Base R](../cheatsheets/base-r-cheatsheet.pdf)
+- :bulb: __Cheatsheet__: [Base R](cheatsheets/base-r-cheatsheet.pdf)
 - :dart: __HW 02__: TBA (due Feb-10)
 
 
@@ -100,7 +100,7 @@ the pace of the course.
 - :microscope: __Lab__:
     + TBA (Tu; due Feb-13)
     + TBA (Th; due Feb-15)
-- :bulb: __Cheatsheet__: [Data import cheat sheet](../cheatsheets/data-import-cheatsheet.pdf)
+- :bulb: __Cheatsheet__: [Data import cheat sheet](cheatsheets/data-import-cheatsheet.pdf)
 - :dart: __HW 03__: TBA (due Feb-17)
 
 
