@@ -3,14 +3,14 @@
 
 ### Course Description
 
-__Stat 131A Introduction to Probability and Statistics for Life Scientists, Spring 2017__ is designed primarily as an introductory course for statistical thinking: critical thinking, interpretation, and statistical literacy. Topics include descriptive statistics, association, correlation, regression, elements of probability, chance variability, random variables, expectation, standard error, sampling, hypothesis tests, confidence intervals, experiments and observational studies.
+__Stat 131A Introduction to Probability and Statistics for Life Scientists, Spring 2019__ is designed primarily as an introductory course for statistical thinking: critical thinking, interpretation, and statistical literacy. Topics include descriptive statistics, association, correlation, regression, elements of probability, chance variability, random variables, expectation, standard error, sampling, hypothesis tests, confidence intervals, experiments and observational studies.
 
 
 ### Prerequisites
 
 You do need to be comfortable with math at the level of intermediate algebra (e.g., the equation of a straight line, plotting points, distance between two points, taking powers and roots, percentages, inequalities).
 
-You should expect to spend about 7 hours of outside work hours per week, 2 hours of instructional experiences requiring special laboratory equipment and facilities per week, and 3 hours of instructor presentation of course materials per week.
+You should expect to spend about 7 hours of outside work hours per week, 2 hours of instructional lab, and 3 hours of instructor presentation of course materials per week.
 
 
 
