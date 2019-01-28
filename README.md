@@ -46,7 +46,7 @@ the pace of the course.
 - :paperclip: __Topics__: Understanding histograms, how to read them, how to graph them, and what makes them different from bar-charts. Likewise, we'll talk about measures of center, their meanings, properties, and how to use them in practice. In addition, we'll discuss other summaries for describing distributions.
 - :file_folder: __Notes__:
     + [Histograms, skeweness, and distributions](slides/istat-lec03-histograms.pdf)
-    + Histograms (demo)
+    + [Frequencies and Histograms](demos/01-freqs-histograms.md) (demo)
     + [Measures of center](slides/istat-lec04-measures-of-center1.pdf)
     + [Using mean and median](slides/istat-lec05-measures-of-center2.pdf)
     + [Five-number summary and boxplots](slides/istat-lec06-spread-boxplots.pdf)
