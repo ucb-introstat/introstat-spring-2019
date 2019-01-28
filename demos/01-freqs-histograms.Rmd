@@ -1,0 +1,167 @@
+---
+title: "Frequencies and Histograms"
+author: "Gaston Sanchez"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## NBA Data Set
+
+```{r eval = FALSE}
+# download data set into your working directory
+url <- "https://raw.githubusercontent.com/ucb-introstat/introstat-spring-2019/master/data/nba_players.csv"
+dat <- read.csv(url)
+```
+
+```{r echo = FALSE}
+dat <- read.csv('../data/nba_players.csv')
+```
+
+The dataset `dat` is a `data.frame` (a tabular object) with dimensions (i.e. number of rows and columns):
+
+```{r}
+dim(dat)
+```
+
+In turn, the available variables (in the columns) are:
+
+```{r}
+colnames(dat)
+```
+
+To take a look at a particular variable, you can type the name of the table, followed by the `$` sign, followed by the name of the variable:
+
+```{r eval = FALSE}
+dat$player
+dat$position
+```
+
+
+## Frequency Tables
+
+A common first step in examining the values of a variable is to count the frequencies of such values. This can be easily done in R with the function `table()`. For instance, to get the counts of the different types of positions, run the following command:
+
+```{r}
+# position frequencies
+table(dat$position)
+```
+
+
+```{r}
+# age frequencies
+table(dat$age)
+```
+
+
+### Relative Frequencies
+
+In order to get __relative frequencies__ (i.e. proportions or fractions) you need to divide the frequencies by the total number of observations. You can do this in R in several ways:
+
+```{r}
+# position relative frequencies (option 1)
+table(dat$position) / nrow(dat)
+
+# position relative frequencies (option 2)
+table(dat$position) / length(dat$position)
+
+# position relative frequencies (option 3)
+prop.table(table(dat$position))
+```
+
+
+## Bar-Charts and Pie-Charts
+
+To visualize frequencies (or relative frequencies) you can create a bar-chart with the function `barplot()`. All you need is to take a `table()` and pass it inside `barplot()`:
+
+```{r barplot1}
+barplot(table(dat$position))
+```
+
+Another common graph to visualize frequencies is a pie-chart, which can be produced in R with the function `pie()`. Like in a bar-chart, you can pass a `table()` to `pie()`:
+
+```{r piechart1}
+pie(table(dat$position))
+```
+
+
+## Categorizing Quantitative Variables
+
+Let's consider the quantitative variable `height`, obtaining frequencies and a bar-chart. 
+
+```{r}
+table(dat$height)
+```
+
+```{r barplot2}
+barplot(table(dat$height), las = 1, border = NA)
+```
+
+The bar-chart reveals some information but there are some issues. Can you guess what are those issues?
+
+Or consider `weight`. Things can get a bit overwhelming:
+
+```{r}
+table(dat$weight)
+```
+
+```{r barplot3}
+barplot(table(dat$weight))
+```
+
+In these cases, it's better to reorganize the values into groups or categories. For example, we could form groups 160-180 pounds, 180-200, 200-220, etc:
+
+```{r}
+weight2 <- cut(
+  dat$weight, 
+  breaks = seq(from = 160, to = 300, by = 20))
+
+table(weight2)
+```
+
+and then make a bar-chart of the categorized variable `weight2`
+
+```{r barplot4}
+barplot(table(weight2), las = 1, border = NA)
+```
+
+
+## Histograms
+
+In addition to using bar-charts to visualize the frequencies of a quantitative variable, we can also use a __histogram__.
+
+R has the `hist()` function that allows you to create a basic histogram:
+
+```{r hist1}
+# default histogram
+hist(dat$weight)
+```
+
+We can specify some graphical parameters to customize the appearence of the histogram:
+
+```{r hist2}
+hist(dat$weight, las = 1, col = 'gray80')
+```
+
+More interestingly, we can also play with the argument `breaks` to change the number of bars:
+
+```{r hist3}
+hist(dat$weight, las = 1, col = 'gray80', breaks = 8)
+```
+
+Here's another option:
+
+```{r hist4}
+hist(dat$weight, las = 1, col = 'gray80', 
+     breaks = seq(from = 160, to = 310, by = 10))
+```
+
+And one more histogram with more "resolution":
+
+```{r hist5}
+hist(dat$weight, las = 1, col = 'gray80', 
+     breaks = seq(from = 160, to = 310, by = 5))
+```
+
