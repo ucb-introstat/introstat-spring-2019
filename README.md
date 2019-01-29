@@ -54,10 +54,10 @@ the pace of the course.
     + [Chapter 3: Statistics](https://www.stat.berkeley.edu/~stark/SticiGui/Text/histograms.htm)
     + [Chapter 4: Measures of Location and Spread](https://www.stat.berkeley.edu/~stark/SticiGui/Text/location.htm)
 - :microscope: __Lab__:
-    + TBA (Tu; due Jan-30)
+    + [Intro to R and RStudio](labs/lab01a.pdf) (Tu; due Jan-30)
     + TBA (Th; due Feb-01)
 - :bulb: __Cheatsheet__: [RStudio cheat sheet](cheatsheets/rstudio-cheatsheet.pdf) and [R markdown cheat sheet](cheatsheets/rmarkdown-cheatsheet.pdf)
-- :dart: __HW 01__: TBA (due Feb-03)
+- :dart: __HW 01__: [Markdown and Histograms](hws/hw01-questions.pdf) (due Feb-03)
 
 
 -----
