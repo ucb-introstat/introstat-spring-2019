@@ -10,8 +10,8 @@
 
 | Name               | Room      | Day/Time              |
 |:-------------------|:----------|:----------------------|
-| Gaston Sanchez     | 309 Evans | TBD |
-| Michelle Yu        | xyz Evans | TBD |
+| Gaston Sanchez     | 309 Evans | MW 1-2pm |
+| Michelle Yu        | 428 Evans | MF 8-10am |
 
 
 - __Lab Sections:__
