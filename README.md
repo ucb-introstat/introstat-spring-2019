@@ -75,10 +75,10 @@ the pace of the course.
     + [Chapter 4: Measures of Location and Spread](https://www.stat.berkeley.edu/~stark/SticiGui/Text/location.htm)
     + [Chapter 23: Normal Curve](https://www.stat.berkeley.edu/~stark/SticiGui/Text/clt.htm)
 - :microscope: __Lab__:
-    + TBA (Tu; due Feb-06)
-    + TBA (Th; due Feb-08)
+    + [Measures of center](labs/lab02a-centers-questions.pdf) (Tu; due Feb-06)
+    + Measures of Spread (Th; due Feb-08)
 - :bulb: __Cheatsheet__: [Base R](cheatsheets/base-r-cheatsheet.pdf)
-- :dart: __HW 02__: TBA (due Feb-10)
+- :dart: __HW 02__: [Descriptive Statistics](hws/hw02-questions.pdf) (due Feb-10)
 
 
 -----
@@ -120,7 +120,7 @@ the pace of the course.
     + [Chapter 10: Regression Diagnostics](https://www.stat.berkeley.edu/~stark/SticiGui/Text/regressionDiagnostics.htm)
 - :microscope: __Lab__:
     + TBA (Tu; due Feb-20)
-    + TBAb: Correlations and Regression](../labs/lab04b-more-correlation-questions.pdf) (Th; due Feb-22)
+    + TBA (Th; due Feb-22)
 - :dart: __HW 04__: TBA (due Feb-24)
 
 
