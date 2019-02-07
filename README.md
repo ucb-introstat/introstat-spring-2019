@@ -76,7 +76,7 @@ the pace of the course.
     + [Chapter 23: Normal Curve](https://www.stat.berkeley.edu/~stark/SticiGui/Text/clt.htm)
 - :microscope: __Lab__:
     + [Measures of center](labs/lab02a-centers-questions.pdf) (Tu; due Feb-06)
-    + Measures of Spread (Th; due Feb-08)
+    + [Measures of Spread](labs/lab02b-boxplots-spreads-questions.pdf) (Th; due Feb-08)
 - :bulb: __Cheatsheet__: [Base R](cheatsheets/base-r-cheatsheet.pdf)
 - :dart: __HW 02__: [Descriptive Statistics](hws/hw02-questions.pdf) (due Feb-10)
 
