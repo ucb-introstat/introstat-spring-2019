@@ -1,0 +1,88 @@
+---
+title: "Normal Curve"
+author: "Gaston Sanchez"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## S&P 500 Annual Returns
+
+Fidelity report:
+
+https://fundresearch.fidelity.com/mutual-funds/performance-and-risk/315911750
+
+- average return (index fund): 9.88% 
+- standard deviation: 11.18%
+
+
+
+### Import Data
+
+S&P 500 Annual Total Return Historical Data
+
+https://ycharts.com/indicators/sandp_500_total_return_annual
+
+
+```{r eval = FALSE}
+# download data set into your working directory
+url <- "https://raw.githubusercontent.com/ucb-introstat/introstat-spring-2019/master/data/sp500_returns.csv"
+dat <- read.csv(url)
+```
+
+```{r echo = FALSE}
+dat <- read.csv('../data/sp500_returns.csv')
+```
+
+```{r}
+dat
+```
+
+
+### Summary Statistics
+
+```{r}
+summary(dat$return)
+```
+
+```{r}
+# mean
+x_mean <- (dat$return)
+x_mean
+
+# sd
+x_sd <- mean(dat$return)
+x_sd
+```
+
+
+```{r hist-return}
+hist(dat$return, col = 'gray90', breaks = 8, las = 1)
+```
+
+
+### Converting to SU
+
+```{r}
+dat$su <- (dat$return - x_mean) / x_sd
+head(dat)
+```
+
+```{r hist-su}
+hist(dat$su, col = 'gray90', xlim = c(-3, 3), breaks = 5, las = 1)
+```
+
+
+### Time Line
+
+```{r year-return}
+plot(dat$year, dat$return, type = "l", las = 1, ylim = c(-60, 60))
+abline(h = x_mean, col = 'blue')
+abline(h = c(x_mean - x_sd, x_mean + x_sd), col = 'red')
+abline(h = c(x_mean - 2*x_sd, x_mean + 2*x_sd), col = 'orange')
+abline(h = c(x_mean - 3*x_sd, x_mean + 3*x_sd), col = 'orange', lty = 2)
+```
+
