@@ -50,11 +50,11 @@ summary(dat$return)
 
 ```{r}
 # mean
-x_mean <- (dat$return)
+x_mean <- mean(dat$return)
 x_mean
 
 # sd
-x_sd <- mean(dat$return)
+x_sd <- sd(dat$return)
 x_sd
 ```
 
