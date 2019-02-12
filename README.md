@@ -98,7 +98,7 @@ the pace of the course.
     + [Chapter 7: Correlation](https://www.stat.berkeley.edu/~stark/SticiGui/Text/correlation.htm)
     + [Chapter 8: Computing the correlation coefficient](https://www.stat.berkeley.edu/~stark/SticiGui/Text/computeR.htm)
 - :microscope: __Lab__:
-    + TBA (Tu; due Feb-13)
+    + [Spreads and Normal Curve](labs/lab03a-spreads-normal-questions.pdf) (Tu; due Feb-13)
     + TBA (Th; due Feb-15)
 - :bulb: __Cheatsheet__: [Data import cheat sheet](cheatsheets/data-import-cheatsheet.pdf)
 - :dart: __HW 03__: TBA (due Feb-17)
