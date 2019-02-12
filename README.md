@@ -101,7 +101,7 @@ the pace of the course.
     + [Spreads and Normal Curve](labs/lab03a-spreads-normal-questions.pdf) (Tu; due Feb-13)
     + TBA (Th; due Feb-15)
 - :bulb: __Cheatsheet__: [Data import cheat sheet](cheatsheets/data-import-cheatsheet.pdf)
-- :dart: __HW 03__: TBA (due Feb-17)
+- :dart: __HW 03__: [Correlation](hws/hw03-questions.pdf) (due Feb-17)
 
 
 -----
