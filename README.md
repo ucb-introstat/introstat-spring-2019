@@ -121,7 +121,7 @@ the pace of the course.
 - :microscope: __Lab__:
     + [Correlation](labs/lab04a-correlation-questions.pdf) (Tu; due Feb-20)
     + TBA (Th; due Feb-22)
-- :dart: __HW 04__: TBA (due Feb-24)
+- :dart: __HW 04__: [Regression](hws/hw04-questions.pdf) (due Feb-24)
 
 
 -----
