@@ -120,7 +120,7 @@ the pace of the course.
     + [Chapter 10: Regression Diagnostics](https://www.stat.berkeley.edu/~stark/SticiGui/Text/regressionDiagnostics.htm)
 - :microscope: __Lab__:
     + [Correlation](labs/lab04a-correlation-questions.pdf) (Tu; due Feb-20)
-    + TBA (Th; due Feb-22)
+    + [More Correlation](labs/lab04b-more-correlation-questions.pdf) (Th; due Feb-22)
 - :dart: __HW 04__: [Regression](hws/hw04-questions.pdf) (due Feb-24)
 
 
