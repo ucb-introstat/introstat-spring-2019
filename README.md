@@ -139,7 +139,7 @@ the pace of the course.
 - :microscope: __Lab__:
     + [Regression](labs/lab05a-regression-questions.pdf) (Tu; due Feb-27)
     + 5b: Review session (Th)
-- :dart: __HW 05__: TBA (due Mar-03)
+- :dart: __HW 05__: [More Regression](hws/hw05-questions.pdf) (due Mar-03)
 - :mortar_board: __MIDTERM 1__: Friday Mar-01
 
 
