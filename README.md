@@ -159,8 +159,8 @@ the pace of the course.
     + [Chapter 17: Probability, Axioms and Fundamentals](https://www.stat.berkeley.edu/~stark/SticiGui/Text/probabilityAxioms.htm)
     + [Chapter 18: The Monty Hall Problem](https://www.stat.berkeley.edu/~stark/SticiGui/Text/montyHall.htm)
 - :microscope: __Lab__:
-    + [Probability 1](labs/lab06a-probability1-questions.pdf) (Tu; due Mar-06)
-    + [Probability 2](labs/lab06b-probability2-questionss.pdf) (Th; due Mar-08)
+    + [Probability Basics](labs/lab06a-probability1-questions.pdf) (Tu; due Mar-06)
+    + [Probability Rules 1](labs/lab06b-probability2-questionss.pdf) (Th; due Mar-08)
 - :dart: __HW 06__: [Probability Basics](hws/hw06-questions.pdf) (due Mar-10)
 
 
@@ -178,7 +178,7 @@ the pace of the course.
     + [Chapter 19: Probability Meets Data](https://www.stat.berkeley.edu/~stark/SticiGui/Text/montyHallTest.htm) (Binomial Distribution)
     + [Chapter 20: Random Variables and Discrete Distributions](https://www.stat.berkeley.edu/~stark/SticiGui/Text/randomVariables.htm)
 - :microscope: __Lab__:
-    + TBA (Tu; due Mar-13)
+    + [Probability Rules 2](labs/lab07a-more-prob-questions.pdf) (Tu; due Mar-13)
     + TBA (Th; due Mar-15)
 - :dart: __HW 07__: TBA (due Mar-17)
 
