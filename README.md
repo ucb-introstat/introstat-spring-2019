@@ -180,7 +180,7 @@ the pace of the course.
 - :microscope: __Lab__:
     + [Probability Rules 2](labs/lab07a-more-prob-questions.pdf) (Tu; due Mar-13)
     + TBA (Th; due Mar-15)
-- :dart: __HW 07__: TBA (due Mar-17)
+- :dart: __HW 07__: [More Probability](hws/hw07-questions.pdf) (due Mar-17)
 
 
 -----
