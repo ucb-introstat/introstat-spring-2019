@@ -179,7 +179,7 @@ the pace of the course.
     + [Chapter 20: Random Variables and Discrete Distributions](https://www.stat.berkeley.edu/~stark/SticiGui/Text/randomVariables.htm)
 - :microscope: __Lab__:
     + [Probability Rules 2](labs/lab07a-more-prob-questions.pdf) (Tu; due Mar-13)
-    + TBA (Th; due Mar-15)
+    + [Box Models](labs/lab07b-box-models-questions.pdf) (Th; due Mar-15)
 - :dart: __HW 07__: [More Probability](hws/hw07-questions.pdf) (due Mar-17)
 
 
