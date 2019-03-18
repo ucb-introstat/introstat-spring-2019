@@ -199,7 +199,7 @@ the pace of the course.
     + [Chapter 22: Standard Error](https://www.stat.berkeley.edu/~stark/SticiGui/Text/standardError.htm)
     + [Chapter 23: Normal Distribution](https://www.stat.berkeley.edu/~stark/SticiGui/Text/clt.htm)
 - :microscope: __Lab__:
-    + TBA (Tu; due Mar-22)
+    + [Binomial Probability](labs/lab08a-binomial-questions.pdf) (Tu; due Mar-22)
     + TBA (Th; due Mar-24)
 - :dart: __HW 08__: TBA (due Mar-24)
 
