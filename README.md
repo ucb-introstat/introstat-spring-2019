@@ -200,8 +200,8 @@ the pace of the course.
     + [Chapter 23: Normal Distribution](https://www.stat.berkeley.edu/~stark/SticiGui/Text/clt.htm)
 - :microscope: __Lab__:
     + [Binomial Probability](labs/lab08a-binomial-questions.pdf) (Tu; due Mar-22)
-    + TBA (Th; due Mar-24)
-- :dart: __HW 08__: TBA (due Mar-24)
+    + [Expected Value](labs/llab08b-exp-value-questions.pdf) (Th; due Mar-24)
+- :dart: __HW 08__: [Binomial Probability](hws/hw08-questions.pdf) (due Mar-24)
 
 
 -----
