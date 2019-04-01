@@ -191,7 +191,7 @@ the pace of the course.
 - :card_index: __Dates__: Mar 18-22
 - :paperclip: __Topics__: We dive deep into two of the most famous probability distributions: the Binomial distribution, and the Normal distribution. We also introduce the concepts of expected value and standard deviation/error of tickets randomly sampled from box models.
 - :file_folder: __Notes__:
-    + [Binomial Distribution](slides/istat-lec18-binomial.pdf)
+    + [Binomial Distribution](slides/istat-lec19-binomial.pdf)
     + [Expected value and Standard error](slides/istat-lec20-expvalue-stderror.pdf)
     + [Normal Approximation](slides/istat-lec21-normal-approximation.pdf)
 - :book: __Reading__:
@@ -221,7 +221,7 @@ the pace of the course.
 - :card_index: __Dates__: Apr 01-05
 - :paperclip: __Topics__: A central topic in statistics has to do with Inference: the problem of obtaining information about a population without examining every unit in the population—--only a random sample from the population. Obviously, random samples vary, so we need to understand how much they vary and how they relate to the population.
 - :file_folder: __Notes__:
-    + [Intro to sampling](slides/istat-lec22-sample-surverys.pdf)
+    + [Intro to sampling](slides/istat-lec22-sample-surveys.pdf)
     + [Sample design](slides/istat-lec23-sample-designs.pdf)
     + [Chance Errors](slides/istat-lec24-chance-errors-sampling.pdf)
 - :book: __Reading__:
