@@ -207,7 +207,7 @@ the pace of the course.
 -----
 
 
-## 9. Spring Recess
+## Spring Recess
 
 - :card_index: __Dates__: Mar 25-29
 - :paperclip: __Topics__: _Recharge your batteries_
@@ -216,7 +216,7 @@ the pace of the course.
 -----
 
 
-## 10. Sampling and Chance Errors (part 1)
+## 9. Sampling and Chance Errors (part 1)
 
 - :card_index: __Dates__: Apr 01-05
 - :paperclip: __Topics__: A central topic in statistics has to do with Inference: the problem of obtaining information about a population without examining every unit in the population—--only a random sample from the population. Obviously, random samples vary, so we need to understand how much they vary and how they relate to the population.
@@ -236,7 +236,7 @@ the pace of the course.
 -----
 
 
-## 11. Sampling and Chance Errors (part 2)
+## 10. Sampling and Chance Errors (part 2)
 
 - :card_index: __Dates__: Apr 08-12
 - :paperclip: __Topics__: Recall that one of the goals of inference is to draw a conclusion about a population on the basis of a random sample from the population. This involves using a probability model that describes the long-run behavior of sample measurements. In this part of the course we continue to develop the probability machinery that underlies inference (i.e. drawing conclusions from sample data).
@@ -249,14 +249,14 @@ the pace of the course.
 - :microscope: __Lab__:
     + TBA (Tu; due Apr-10)
     + 10b: Review Session
-- :dart: __HW 10__: TBA (due Apr-14)
+- :dart: __HW 10__: No HW
 - :mortar_board: __MIDTERM 2__: Friday Apr-12
 
 
 -----
 
 
-## 12. Confidence Intervals
+## 11. Confidence Intervals
 
 - :card_index: __Dates__: Apr 15-19
 - :paperclip: __Topics__: In inference, we use a sample to draw a conclusion about a population. Two types of inference are the focus of our work in this course: 1) estimate a population parameter with a confidence interval; 2) test a claim about a population parameter with a hypothesis test. The purpose of a confidence interval is to use a sample statistic (e.g. proportion, mean) to construct an interval of values that we can be reasonably confident contains the population parameter.
@@ -275,7 +275,7 @@ the pace of the course.
 -----
 
 
-## 13. Hypothesis Tests
+## 12. Hypothesis Tests
 
 - :card_index: __Dates__: Apr 22-26
 - :paperclip: __Topics__: Now we look more carefully at the second type of inferential task: testing a claim about a population parameter. We begin our discussion of hypothesis tests with research questions that require us to test a claim. Later we look at how a claim becomes a hypothesis.
@@ -294,7 +294,7 @@ the pace of the course.
 -----
 
 
-## 14. Hypothesis Tests
+## 13. Hypothesis Tests
 
 - :card_index: __Dates__: Apr 29-May 03
 - :paperclip: __Topics__: More about tests of significance.
@@ -312,7 +312,7 @@ the pace of the course.
 -----
 
 
-## 15. RRR Week and Final Exam
+## 14. RRR Week and Final Exam
 
 - :card_index: __Dates__: May 06-10
 - :paperclip: __Topics__: Prepare for final examination
