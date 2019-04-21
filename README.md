@@ -228,8 +228,8 @@ the pace of the course.
     + [Chapter 24: Sampling](https://www.stat.berkeley.edu/~stark/SticiGui/Text/sampling.htm)
     + [Chapter 25: Estimating Parameters from SRS](https://www.stat.berkeley.edu/~stark/SticiGui/Text/estimation.htm)
 - :microscope: __Lab__:
-    + TBA (Tu; due Apr-03)
-    + TBA (Th; due Apr-05)
+    + [Exp. Value and SE](labs/lab09a-exp-se-questions.pdf) (Tu; due Apr-03)
+    + [Sampling](labs/llab09b-sampling-questions.pdf) (Th; due Apr-05)
 - :dart: __HW 09__: TBA (due Apr-07)
 
 
@@ -247,7 +247,7 @@ the pace of the course.
 - :book: __Reading__: 
     + [Chapter 25: Estimating Parameters from SRS](https://www.stat.berkeley.edu/~stark/SticiGui/Text/estimation.htm)
 - :microscope: __Lab__:
-    + TBA (Tu; due Apr-10)
+    + [Sampling Distributions](labs/lab10a-sampling-distribs-questions.pdf) (Tu; due Apr-10)
     + 10b: Review Session
 - :dart: __HW 10__: No HW
 - :mortar_board: __MIDTERM 2__: Friday Apr-12
