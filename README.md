@@ -318,5 +318,5 @@ the pace of the course.
 - :paperclip: __Topics__: Prepare for final examination
 - :file_folder: __Notes__:
     + No lecture. Instructor will hold OH (in 309 Evans)
-- :mortar_board: __FINAL__: May Tu 14, 7-10pm, Rooms TBA
+- :mortar_board: __FINAL__: May Tu 14, 7-10pm, in Mulford 159
     + See announcement about the final test on bCourses
