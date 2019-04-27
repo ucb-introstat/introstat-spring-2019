@@ -53,7 +53,7 @@ The rest of this document details the policies that will be enforced in the Spri
     + full credit: lab attendance and complete submission on time.
     + half credit: lab attendance but no submission, or no attendance with complete submission on time.
     + late submissions of labs will not be accepted under any circumstances. Please see the policy about Special Accommodations (below) if you have relevant DSP accommodations.
-- In lieu of offering exceptions or extensions, your lowest lab score will be dropped in the calculation of your overall grade.
+- In lieu of offering exceptions or extensions, your two lowest lab scores will be dropped in the calculation of your overall grade.
 - Lab submissions will be graded on completion, using a coarse scale:
     + 0: no submission
     + 2: submission but very poor (e.g. got started but there's around 30% of problems solved)
